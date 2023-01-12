@@ -1,0 +1,16 @@
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\PSChallenge.exe.config
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\PSChallenge.exe
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\PSChallenge.pdb
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.csproj.AssemblyReference.cache
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.Form1.resources
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.Properties.Resources.resources
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.csproj.GenerateResource.cache
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.exe
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.pdb
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\Ivi.Visa.dll
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\Ivi.Visa.xml
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\jason.smith\source\repos\PSChallenge\PSChallenge\obj\Debug\PSChallenge.csproj.CopyComplete
